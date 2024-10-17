@@ -29,7 +29,9 @@ This repository contains automated tests and test cases for the Jubelio web plat
 
 ### Installation
 1. Clone this repository: git clone https://github.com/natashacallula/FinalProject-QA-Jubelio.git
+
    cd FinalProject-QA-Jubelio
+  
 2. Install required Python packages:
 3. pip install selenium
 4. Run the Selenium test scripts: Make sure ChromeDriver is available in your PATH, then execute the scripts:
